@@ -1,17 +1,17 @@
 # Proxy-Scraper
-Pulls Proxies Updated Daily
+Günlük Olarak Güncellenen Proxy'leri Çeker.
 
-### <div align="left">Tool that automatically generates up-to-date proxy! 🚀</div>  
+### <div align="left">Tüm kaynaklardan otomatik güncel proxyleri çeker! 🚀</div>  
   
   
 
-- 🔭 Multiple Api Support
+- 🔭 Çoklu api desteği
   
 
-- 🌱 Auto Updated Proxies 
+- 🌱 Otomatik güncellenen proxyler 
   
 
-- ❓ Instant response to your questions  
+- ❓ Sorularınıza anında cevap desteği  
   
 
-- ⚡ changing APIs are updated instantly.  
+- ⚡ Değişen bir API olursa günceli ile değiştirilir
