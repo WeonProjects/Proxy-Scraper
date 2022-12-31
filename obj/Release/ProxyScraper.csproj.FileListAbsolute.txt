@@ -1,0 +1,5 @@
+C:\Users\mertk\OneDrive\Masaüstü\BestProxyFetcher-0dc076cb5689e4f6d9959fb5389e5018367c438f\bin\Release\ProxyScraper.exe.config
+C:\Users\mertk\OneDrive\Masaüstü\BestProxyFetcher-0dc076cb5689e4f6d9959fb5389e5018367c438f\bin\Release\ProxyScraper.exe
+C:\Users\mertk\OneDrive\Masaüstü\BestProxyFetcher-0dc076cb5689e4f6d9959fb5389e5018367c438f\obj\Release\ProxyScraper.csproj.AssemblyReference.cache
+C:\Users\mertk\OneDrive\Masaüstü\BestProxyFetcher-0dc076cb5689e4f6d9959fb5389e5018367c438f\obj\Release\ProxyScraper.csproj.CoreCompileInputs.cache
+C:\Users\mertk\OneDrive\Masaüstü\BestProxyFetcher-0dc076cb5689e4f6d9959fb5389e5018367c438f\obj\Release\ProxyScraper.exe
